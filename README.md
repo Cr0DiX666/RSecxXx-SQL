@@ -10,7 +10,8 @@ root@localhost # bash SQLi
 
 # Donate
 
-#OVO || Dana || Gopay
+# OVO || Dana || Gopay
+
 +62856000006369
 
 # Atas Nama
